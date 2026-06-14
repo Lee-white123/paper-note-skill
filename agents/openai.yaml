@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Note"
+  short_description: "Generate structured VLA/WAM paper notes from PDFs."
+  default_prompt: "Use this skill to read one or more VLA, WAM, robotics, or embodied AI papers and generate detailed Markdown notes following the user's established Chinese note template, including model backbone, action representation, training details, openness, and research relevance."
